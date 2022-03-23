@@ -75,7 +75,7 @@
 <br/>
 
 ```clojure
- (defn getSomeInformations
+ (defn get-some-info
     []
     {:name "Diogo Pires"
      :username "diogopcaires"
@@ -84,7 +84,7 @@
      :hobbies ["Music" "Games" "Movies" "Sports"]})
 
 
-  (defn getJobInfo
+  (defn get-job-info
     [user-info]
     (assoc user-info :job-info
                      {:title "Software Engineer"
@@ -94,8 +94,8 @@
                       :startDate "2021-10-04"
                       :endDate nil}))
 
-(-> getSomeInformations
-    getJobInfo
+(-> get-some-info
+    get-job-info
     println)
 ;
 ; {:name Diogo Pires,
