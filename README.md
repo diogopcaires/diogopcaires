@@ -46,7 +46,6 @@
   <a href="#"><img src="https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=9b34eb"></a>
   <a href="#"><img src="https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=9b34eb"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Clojure-0D1117?style=flat-square&logo=Clojure&logoColor=9b34eb"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Datomic-0D1117?style=flat-square&logo=DatomiclogoColor=9b34eb"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Nodejs-0D1117?style=flat-square&logo=Node.js&logoColor=9b34eb"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=Python&logoColor=9b34eb"></a>
   <a href="#"><img src="https://img.shields.io/badge/Bash%20-%230D1117.svg?style=flat-square&logo=gnu-bash&logoColor=9b34eb"></a>
@@ -62,8 +61,8 @@
   <a href="#"><img src="https://img.shields.io/badge/-Digital%20Ocean-0D1117?style=flat-square&logo=digitalocean&logoColor=9b34eb"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Heroku-0D1117?style=flat-square&logo=heroku&logoColor=9b34eb"></a>
   <a href="#"><img src="https://img.shields.io/badge/Vercel%20-%230D1117.svg?style=flat-square&logo=vercel&logoColor=9b34eb"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Amazon%20AWS-0D1117?style=flat-square&logo=amazon-aws&logoColor=9b34eb"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Microsoft%20Azure-0D1117?style=flat-square&logo=microsoft-azure&logoColor=9b34eb"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Amazon%20AWS-0D1117?style=flat-square&logo=amazon-aws&logoColor=9b34eb"></a>  
+  <a href="#"><img src="https://img.shields.io/badge/-Google%20Cloud%20Platform-0D1117?style=flat-square&logo=GoogleCloud&logoColor=9b34eb"></a>
   <a href="#"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github&logoColor=9b34eb"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Arduino-0D1117?style=flat-square&logo=Arduino&logoColor=9b34eb"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Raspberry%20Pi-0D1117?style=flat-square&logo=Raspberry-Pi&logoColor=9b34eb"></a>
