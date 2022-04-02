@@ -45,7 +45,8 @@
   <a href="#"><img src="https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5&logoColor=9b34eb"></a>
   <a href="#"><img src="https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=9b34eb"></a>
   <a href="#"><img src="https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=9b34eb"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Angular-0D1117?style=flat-square&logo=angular&logoColor=9b34eb"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Clojure-0D1117?style=flat-square&logo=Clojure&logoColor=9b34eb"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Datomic-0D1117?style=flat-square&logo=DatomiclogoColor=9b34eb"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Nodejs-0D1117?style=flat-square&logo=Node.js&logoColor=9b34eb"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=Python&logoColor=9b34eb"></a>
   <a href="#"><img src="https://img.shields.io/badge/Bash%20-%230D1117.svg?style=flat-square&logo=gnu-bash&logoColor=9b34eb"></a>
