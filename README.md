@@ -66,53 +66,6 @@
 
 <br/>
 
-<h2>📜 Resume</h2>
-
-<br/>
-
-```clojure
- (defn get-some-info
-    []
-    {:name "Diogo Pires"
-     :username "diogopcaires"
-     :title "Full Stack Developer"
-     :alias ["Dg"]
-     :hobbies ["Music" "Games" "Movies" "Sports"]})
-
-
-  (defn get-job-info
-    [user-info]
-    (assoc user-info :job-info
-                     {:title "Software Engineer"
-                      :companyName "Nubank"
-                      :employmentType "Full Remote"
-                      :location "Barra Mansa, RJ - Brazil"
-                      :startDate "2021-10-04"
-                      :endDate nil}))
-
-(-> get-some-info
-    get-job-info
-    println)
-;
-; {:name Diogo Pires,
-;  :username diogopcaires,
-;  :title Full Stack Developer,
-;  :alias [Dg],
-;  :hobbies [Music Games Movies Sports], 
-;  :job-info {:title Software Engineer, 
-;             :companyName Nubank, 
-;             :employmentType Full Remote, 
-;             :location Barra Mansa, RJ - Brazil, 
-;             :startDate 2021-10-04, 
-;             :endDate nil}}
-```
-
-<br/>
-
-<hr/>
-
-<br/>
-
 <p align="center">
   <a href="#"><img src="https://media.giphy.com/media/vmGjjH1XOjViEfbBfZ/giphy.gif" width="128"></a>
 </p>
