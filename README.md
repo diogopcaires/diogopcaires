@@ -8,27 +8,6 @@
   <a href="https://www.linkedin.com/in/diogo-pires-7122a079" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=9b34eb"></a> 
   <a href="https://www.instagram.com/diogopiress_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=9b34eb"></a>
 </p>
-
-
-<br/>
-
-
-<h2>📃 Github Stats</h2>
-
-<br/>
-
-<diV>
-
-  <div align="center">
-    <a href="#"><img alt="Diogo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=diogopcaires&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=9b34eb&icon_color=9b34eb" height="200"/></a>
-    <a href="#"><img alt="Thiago's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogopcaires&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=9b34eb&icon_color=9b34eb" height="200"/></a>
-    <br/>
-    <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
-  </div>
-
-
-</div>
-
 <br/>
 
 <h2>⚡ Main Technologies</h2>
