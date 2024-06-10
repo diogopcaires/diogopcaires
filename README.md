@@ -48,7 +48,7 @@
 
 
 <p align="center">
-  <a href="#"><img width="531" alt="image" src="https://github.com/diogopcaires/diogopcaires/assets/6088036/61f81eab-a4c5-46ae-a415-2ccda4d60b27"></a>
+  <img width="531" alt="image" src="https://github.com/diogopcaires/diogopcaires/assets/6088036/f8c6e978-993d-4929-97bb-3c89cc7e08ff">
 </p>
 <br/>
 
