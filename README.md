@@ -46,6 +46,7 @@
 <br/>
 
 
+<h2>⚡ Voyager template</h2>
 
 <p align="center">
   <img width="531" alt="image" src="https://github.com/diogopcaires/diogopcaires/assets/6088036/f8c6e978-993d-4929-97bb-3c89cc7e08ff">
