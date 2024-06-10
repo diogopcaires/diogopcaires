@@ -45,6 +45,13 @@
 
 <br/>
 
+
+
+<p align="center">
+  <a href="#"><img width="531" alt="image" src="https://github.com/diogopcaires/diogopcaires/assets/6088036/61f81eab-a4c5-46ae-a415-2ccda4d60b27"></a>
+</p>
+<br/>
+
 <p align="center">
   <a href="#"><img src="https://media.giphy.com/media/vmGjjH1XOjViEfbBfZ/giphy.gif" width="128"></a>
 </p>
