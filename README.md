@@ -49,7 +49,10 @@
 <h2>⚡ Voyager template</h2>
 
 <p align="center">
-  <img width="531" alt="image" src="https://github.com/diogopcaires/diogopcaires/assets/6088036/f8c6e978-993d-4929-97bb-3c89cc7e08ff">
+  <img width="1407" alt="image" src="https://github.com/diogopcaires/diogopcaires/assets/6088036/cc28939b-9f13-4e62-ba07-90f0d0d9bbd4">
+  <img width="1407" alt="image" src="https://github.com/diogopcaires/diogopcaires/assets/6088036/e43d413f-2eb4-4e96-a084-e48908622a7f">
+  <img width="1407" alt="image" src="https://github.com/diogopcaires/diogopcaires/assets/6088036/0b753d12-ebc8-4ce8-86aa-455f31eaf5ec">
+
 </p>
 <br/>
 
