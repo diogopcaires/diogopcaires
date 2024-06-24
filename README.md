@@ -8,6 +8,16 @@
   <a href="https://www.linkedin.com/in/diogo-pires-7122a079" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=9b34eb"></a> 
   <a href="https://www.instagram.com/diogopiress_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=9b34eb"></a>
 </p>
+
+<br/>
+
+## 🧐 About
+
+- 🏄‍ Community guy who loves being involved in communities and help my teamates grow
+- 😄 I'm challenging myself to use neovim as a text editor, follow this challenge in [my-neovim-config](https://github.com/diogopcaires/my-neo-vim-config)
+- 🔭 I use a ZSA Voyager as main keyboard, follow my current layout [here](https://configure.zsa.io/embed/voyager/layouts/lldna/latest/0).
+- 🌱 I love to speak at public events and have been a speaker at many events.
+
 <br/>
 
 <h2>⚡ Main Technologies</h2>
@@ -44,13 +54,6 @@
 </p>
 
 <br/>
-
-## 🧐 About
-
-- 🏄‍ Community guy who loves being involved in communities and help my teamates grow
-- 😄 I'm challenging myself to use neovim as a text editor, follow this challenge in [my-neovim-config](https://github.com/diogopcaires/my-neo-vim-config)
-- 🔭 I use a ZSA Voyager as main keyboard, follow my current layout [here](https://configure.zsa.io/embed/voyager/layouts/lldna/latest/0).
-- 🌱 I love to speak at public events and have been a speaker at many events.
 
 
 <p align="center">
