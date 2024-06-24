@@ -45,16 +45,13 @@
 
 <br/>
 
+## 🧐 About
 
-<h2>⚡ Voyager template</h2>
+- 🏄‍ Community guy who loves being involved in communities and help my teamates grow
+- 😄 I'm challenging myself to use neovim as a text editor, follow this challenge in [my-neovim-config](https://github.com/diogopcaires/my-neo-vim-config)
+- 🔭 I use a ZSA Voyager as main keyboard, follow my current layout [here](https://configure.zsa.io/embed/voyager/layouts/lldna/latest/0).
+- 🌱 I love to speak at public events and have been a speaker at many events.
 
-<p align="center">
-  <img width="1407" alt="image" src="https://github.com/diogopcaires/diogopcaires/assets/6088036/cc28939b-9f13-4e62-ba07-90f0d0d9bbd4">
-  <img width="1407" alt="image" src="https://github.com/diogopcaires/diogopcaires/assets/6088036/e43d413f-2eb4-4e96-a084-e48908622a7f">
-  <img width="1407" alt="image" src="https://github.com/diogopcaires/diogopcaires/assets/6088036/0b753d12-ebc8-4ce8-86aa-455f31eaf5ec">
-
-</p>
-<br/>
 
 <p align="center">
  <a href="#"><img src="https://github.com/diogopcaires/diogopcaires/assets/6088036/47ba1c6d-763e-460c-a8f6-b505931729ff" width="128"></a>
