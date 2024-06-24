@@ -57,5 +57,7 @@
 <br/>
 
 <p align="center">
+ <a href="#"><img src="https://github.com/diogopcaires/diogopcaires/assets/6088036/47ba1c6d-763e-460c-a8f6-b505931729ff" width="128"></a>
+</br>
   <a href="#"><img src="https://media.giphy.com/media/vmGjjH1XOjViEfbBfZ/giphy.gif" width="128"></a>
 </p>
